@@ -1,6 +1,9 @@
 ### Hey 👋, I'm [ajycc20](https://ajycc20.top)!
 
-![profile views](https://komarev.com/ghpvc/?username=ajycc20)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ajycc20/count.svg" />
+</p>
 
 [![ajycc20](https://github-profile-trophy.vercel.app/?username=ajycc20)](https://github.com/ryo-ma/github-profile-trophy)
 
