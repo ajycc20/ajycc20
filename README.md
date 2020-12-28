@@ -5,8 +5,6 @@
   <img src="https://profile-counter.glitch.me/ajycc20/count.svg" />
 </p>
 
-[![ajycc20](https://github-profile-trophy.vercel.app/?username=ajycc20)](https://github.com/ryo-ma/github-profile-trophy)
-
 ------
 
 <p >
