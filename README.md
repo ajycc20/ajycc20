@@ -8,6 +8,6 @@
 ------
 
 <p >
-  <img src="https://github-readme-stats.ajycc20.top/api?username=ajycc20&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="170">
-  <img src="https://github-readme-stats.ajycc20.top/api/top-langs/?username=ajycc20&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515" height="170">
+  <img src="https://github-readme-stats.ajycc20.top/api?username=ajycc20&show_icons=true&show_icons=true&count_private=true&hide_border=true&title_color=fb83a5&icon_color=fb83a5" height="170">
+  <img src="https://github-readme-stats.ajycc20.top/api/top-langs/?username=ajycc20&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=10&title_color=fb83a5" height="170">
 </p>
