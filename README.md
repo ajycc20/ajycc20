@@ -1,13 +1,6 @@
 ### Hey 👋, I'm [ajycc20](https://ajycc20.top)!
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ajycc20/count.svg" />
-</p>
+I'm a FrontEnd developer.
 
-------
-
-<p >
-  <img src="https://github-readme-stats.ajycc20.top/api?username=ajycc20&show_icons=true&show_icons=true&count_private=true&hide_border=true&title_color=fb83a5&icon_color=fb83a5" height="170">
-  <img src="https://github-readme-stats.ajycc20.top/api/top-langs/?username=ajycc20&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=10&title_color=fb83a5" height="170">
-</p>
+| <a href="https://github.com/ajycc20/github-readme-stats"><img align="center" src="https://github-readme-stats.ajycc20.top/api?username=ajycc20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=fb83a5&icon_color=fb83a5" alt="ajycc20's github stats" /></a> | <a href="https://github.com/ajycc20/github-readme-stats"><img align="center" src="https://github-readme-stats.ajycc20.top/api/top-langs/?username=ajycc20&layout=compact&theme=buefy&hide_border=true&title_color=fb83a5" /></a>|
+| :---: | :---: |
