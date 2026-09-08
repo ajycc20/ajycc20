@@ -1,6 +1,2 @@
-### Hey 👋, I'm [ajycc20](https://ajycc20.top)!
-
-I'm a FrontEnd developer.
-
-| <a href="https://github.com/ajycc20/github-stats-extended"><img align="center" src="https://github-readme-stats.ajycc20.top/api?username=ajycc20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=fb83a5&icon_color=fb83a5" alt="ajycc20's github stats" /></a> | <a href="https://github.com/ajycc20/github-stats-extended"><img align="center" src="https://github-readme-stats.ajycc20.top/api/top-langs/?username=ajycc20&layout=compact&theme=buefy&hide_border=true&title_color=fb83a5" /></a>|
+| <a href="https://github.com/ajycc20/github-stats-extended"><img align="center" src="https://github-readme-stats.ajycc20.top/api?username=ajycc20&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="ajycc20's github stats" /></a> | <a href="https://github.com/ajycc20/github-stats-extended"><img align="center" src="https://github-readme-stats.ajycc20.top/api/top-langs/?username=ajycc20&layout=compact&hide_title=true&langs_count=6&theme=transparent&hide_border=true" /></a>|
 | :---: | :---: |
